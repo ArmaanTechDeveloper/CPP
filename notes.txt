@@ -1,0 +1,5 @@
+"cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+
+
+menton jindagi 
+cd bin && g++ ../$fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt && cd ..
