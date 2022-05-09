@@ -3,3 +3,12 @@
 
 menton jindagi 
 cd bin && g++ ../$fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt && cd ..
+
+
+
+alts : 
+pepcoding
+take u forward
+abdul bari
+c++ by shukla
+aditya verma
