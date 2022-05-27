@@ -56,5 +56,5 @@
         "*.ejs": "html",
         "ostream": "cpp",
         "iostream": "cpp"
-    }
+    },
 }
